@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Expedito 👋 :shipit:
+### Hi there, I'm Lucas Expedito :shipit:
 
 ## I'm a developer and a computer science student!
 - 🔭 I’m currently working on ruby on rails and ionic
